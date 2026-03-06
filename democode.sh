@@ -1,1 +1,1 @@
-echo "Wecome to new project"
+echo "Wecome to new project develop"
